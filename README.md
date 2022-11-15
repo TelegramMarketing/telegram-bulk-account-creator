@@ -17,10 +17,10 @@ Software Name : Flash maker
 Version : v1.2 
 Price : 150$ For Lifetime with upcoming Free Updates + live Support
 - [Watch Account Maker Video Tutorial](https://www.youtube.com/watch?v=VdyyIK_iD_8)
-Easy To use Graphical user Interface
-Fully Autometic
-Telethon Based sessions maker
-Support 6 websites API
+- Easy To use Graphical user Interface
+- Fully Autometic
+- Telethon Based sessions maker
+- Support 6 websites API
 1. https://sms-activate.org/en
 2. https://smspva.com/
 3. https://5sim.net/
