@@ -17,7 +17,29 @@ Contact Only for Serious Business, clowns Stay Away.
 - Telegram Username : @HamzaXpro
 - WhatsApp Contact : +919844731512
 
-- [Telegram Channel Subscribers](https://www.cryptoxpromoter.com/telegram-services/)
-- [Telegram Group Members](https://www.cryptoxpromoter.com/telegram-services/)
 ## Features
+Software Name : Flash maker
+Version : v1.2 
+Price : 150$ For Lifetime with upcoming Free Updates + live Support
+- [Watch Account Maker Video Tutorial](https://www.youtube.com/watch?v=VdyyIK_iD_8)
+Easy To use Graphical user Interface
+Fully Autometic
+Telethon Based sessions maker
+Support 6 websites API
+1. https://sms-activate.org/en
+2. https://smspva.com/
+3. https://5sim.net/
+4. https://www.supersms.ml/
+5. https://sms-bus.com/
+6. https://give-sms.com/
+
+Auto Buy number and maker accounts
+Autometic Set Profile Picture
+Autometic Set Account Name
+Autometic Set 2 step password
+Autometic Save number and sessions
+have delay timing option to make Next Account
+It makes sessions only [Json Sesssion/Telethon based Sessions]
+If number comes pre banned from websites it ll auto cancel.
+If OTP doesnt comes in 2 minute it ll auto cancel that number on site and request with new number
 
